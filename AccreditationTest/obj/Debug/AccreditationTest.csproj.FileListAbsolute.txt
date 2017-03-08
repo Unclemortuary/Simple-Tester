@@ -1,0 +1,10 @@
+c:\users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\bin\Debug\AccreditationTest.exe.config
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\bin\Debug\AccreditationTest.exe
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\bin\Debug\AccreditationTest.pdb
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.Form1.resources
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.Properties.Resources.resources
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.csproj.GenerateResource.Cache
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.exe
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.pdb
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.Form2.resources
+C:\Users\пк\documents\visual studio 2015\Projects\AccreditationTest\AccreditationTest\obj\Debug\AccreditationTest.csprojResolveAssemblyReference.cache
